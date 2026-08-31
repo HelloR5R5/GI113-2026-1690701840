@@ -1,7 +1,0 @@
-﻿Build started at 16:28...
-1>------ Build started: Project: Lab03, Configuration: Debug Any CPU ------
-1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
-1>D:\Stamp GI 113\Repo\GI113-2026-1690701840\Lab02\Lab03\Program.cs(7,23,7,31): warning CS0219: The variable 'MaxLevel' is assigned but its value is never used
-1>  Lab03 -> D:\Stamp GI 113\Repo\GI113-2026-1690701840\Lab02\Lab03\bin\Debug\net9.0\Lab03.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 16:28 and took 00.302 seconds ==========
