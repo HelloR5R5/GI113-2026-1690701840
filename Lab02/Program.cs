@@ -111,7 +111,7 @@ namespace Lab02
             Console.WriteLine($"HP: {char4Hp}");
             Console.WriteLine($"Attack Power: {char4AttackPower}");
             Console.WriteLine($"Is Alive: {char4IsAlive}");
-            Console.WriteLine(\n"Name: {char4Name}");
+            Console.WriteLine();
 
         }
     }
