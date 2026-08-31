@@ -53,7 +53,7 @@ namespace Lab02
             float char1AttackPower = 95.5f;
             bool char1IsAlive = true;
 
-            Console.WriteLine("===== PARTY STATUS: Arthur =====");
+            Console.WriteLine("===== HERO STATUS: Arthur =====");
             Console.WriteLine($"Name: {char1Name}");
             Console.WriteLine($"Rank: {char1rank}");
             Console.WriteLine($"Level: {char1Level}");
@@ -70,7 +70,7 @@ namespace Lab02
             double char2AttackPower = 65;
             bool char2IsAlive = true;
 
-            Console.WriteLine("===== PARTY STATUS: Lancelot =====");
+            Console.WriteLine("===== HERO STATUS: Lancelot =====");
             Console.WriteLine($"Name: {char2Name}");
             Console.WriteLine($"Rank: {char2rank}");
             Console.WriteLine($"Level: {char2Level}");
@@ -87,7 +87,7 @@ namespace Lab02
             float char3AttackPower = 40.5f;
             bool char3IsAlive = true;
 
-            Console.WriteLine("===== PARTY STATUS: Guinevere =====");
+            Console.WriteLine("===== HERO STATUS: Guinevere =====");
             Console.WriteLine($"Name: {char3Name}");
             Console.WriteLine($"Rank: {char3rank}");
             Console.WriteLine($"Level: {char3Level}");
@@ -104,14 +104,15 @@ namespace Lab02
             double char4AttackPower = 120.0;
             bool char4IsAlive = true;
 
-            Console.WriteLine("===== PARTY STATUS: Merlin =====");
+            Console.WriteLine("===== HERO STATUS: Merlin =====");
             Console.WriteLine($"Name: {char4Name}");
             Console.WriteLine($"Rank: {char4rank}");
             Console.WriteLine($"Level: {char4Level}");
             Console.WriteLine($"HP: {char4Hp}");
             Console.WriteLine($"Attack Power: {char4AttackPower}");
             Console.WriteLine($"Is Alive: {char4IsAlive}");
-            Console.WriteLine();
+            Console.WriteLine(\n"Name: {char4Name}");
+
         }
     }
 }
