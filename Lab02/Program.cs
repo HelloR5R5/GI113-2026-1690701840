@@ -50,7 +50,7 @@ namespace Lab02
             char char1rank = 'S';
             int char1Level = 50;
             int char1Hp = 350;
-            float char1AttackPower = 75.5f;
+            float char1AttackPower = 95.5f;
             bool char1IsAlive = true;
 
             Console.WriteLine("===== PARTY STATUS: Arthur =====");
